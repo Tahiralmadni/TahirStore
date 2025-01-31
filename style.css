@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Wonderly';
+    src: url('./Wonderly.otf');
+}
+
+body {
+    font-family: 'Wonderly';
+}
+body{
+    background-color: #d31414;
+}
+ 
+.navbar-brand{
+    font-family: 'Wonderly';
+}
